@@ -7,3 +7,9 @@ target/
 *.db-shm
 *.db-wal
 .DS_Store
+
+
+# React Website
+knowvault-website/node_modules/
+knowvault-website/dist/
+knowvault-website/.env
